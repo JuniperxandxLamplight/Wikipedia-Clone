@@ -1,0 +1,34 @@
+body{
+  background-color: #E3F0EB;
+}
+
+.login a{
+  padding: 7px;
+}
+.login-nav {
+  float: right;
+}
+.sidebar{
+  height: 100%;
+  width: 160px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.leftnav {
+  padding-left: 150px;
+  padding-top: 20px;
+}
+
+.leftnav li{
+  border-left: 1px solid #B2BDB9;
+  border-right: 1px solid #B2BDB9;
+}
+
+.rightnav{
+  float: right;
+}
