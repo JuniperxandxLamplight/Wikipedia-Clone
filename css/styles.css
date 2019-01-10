@@ -37,5 +37,18 @@ body{
 .mainpage{
   background-color: white;
   margin-left: 80px;
-  
+  padding: 50px;
+
+}
+
+.panel-success {
+  background-color: #FBFFF4;
+}
+
+.panel-info{
+  background-color: #F6FFFF;
+}
+
+.panel-danger{
+  background-color: #FFF9FF;
 }
