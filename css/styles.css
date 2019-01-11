@@ -1,5 +1,5 @@
 body{
-  background-color: #E3F0EB;
+  background-color: #EBEBEB;
 }
 
 .login a{
@@ -23,6 +23,8 @@ body{
 .leftnav {
   padding-left: 75px;
   padding-top: 50px;
+  background-color: #EBEBEB;
+
 }
 
 .leftnav li{
@@ -31,7 +33,7 @@ body{
 }
 
 #active{
-  color: #E3F0EB;
+  color: #EBEBEB;
 }
 
 .mainpage{
@@ -51,4 +53,18 @@ body{
 
 .panel-danger{
   background-color: #FFF9FF;
+}
+
+.panel-info img{
+  float: right;
+}
+
+.panel-success img{
+  float: left;
+  padding-right: 5px;
+}
+
+.colorpanels a{
+  font-size: 10px;
+  font-style: italic;
 }
